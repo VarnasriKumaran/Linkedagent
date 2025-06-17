@@ -73,7 +73,7 @@ cp .env.example .env
 
 # 5. Run the app
 python main.py
-
+```
 
 ![image](https://github.com/user-attachments/assets/8cd4d9f2-f1b8-415a-a1b1-da03a1a6348e)
 ![image](https://github.com/user-attachments/assets/a1732060-2640-4b0f-a631-c2a19e33b9cc)
