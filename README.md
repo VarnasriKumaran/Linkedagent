@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/093dbd90-0f14-4759-bb4f-37d848de3fdb)![image](https://github.com/user-attachments/assets/b9c82836-dd5e-4984-a873-d49725d8726c)# LINKEDAGENT - AI POWERED RESUME MAKER AND JOB APPLIER 
+# LINKEDAGENT - AI POWERED RESUME MAKER AND JOB APPLIER 
 
 
 ## 🚀 Project Overview
@@ -57,7 +57,7 @@ By intelligently integrating user data, LLMs, and real-time job scraping, this s
 ---
 
 ## 📦 Installation
-
+```bash
 # 1. Clone the repository
 git clone git@github.com:VarnasriKumaran/Linkedagent.git
 
